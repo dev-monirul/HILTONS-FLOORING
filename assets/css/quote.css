@@ -1,0 +1,61 @@
+.quote h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #000;
+}
+
+.quote p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #000;
+}
+
+.quote {
+    background: #fff;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    padding: 20px 30px 30px 30px;
+    position: relative;
+    top: 100px;
+}
+.quote input {
+    background: #faf9f9;
+    outline: none;
+    border: 1px solid #ddd;
+    width: 48.7%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #999999;
+    margin-bottom: 12px;
+}
+.quote textarea {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    height: 100px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background: #faf9f9;
+}
+
+.quote input[type="name"] {
+    float: left;
+}
+
+.quote input[type="email"] {
+    float: right;
+}
+
+.quote ::placeholder {
+    color: #999;
+}
+
+.quote input[type="submit"] {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    background: #fac74b;
+    border: 1px solid #fac74b;
+    width: 100%;
+    margin: 0;
+}

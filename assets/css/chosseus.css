@@ -1,0 +1,52 @@
+section.choose-area{
+    background-image: url(../img/choose/choose-bg.png);
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 150px;
+}
+.section-title {
+    text-align: center;
+}
+
+.section-title h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #000;
+}
+
+section.choose-area .section-title h2 {
+    color: #ffba11;
+    padding-top: 110px;
+}
+
+.section-title p {
+    font-size: 18px;
+    color: #000;
+    font-weight: 300;
+}
+
+section.choose-area .section-title p {
+    color: #c0a894;
+}
+.single-choose-item h3 {
+    font-size: 25px;
+    color: #ffba11;
+    font-weight: 500;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+.single-choose-item p {
+    color: #c0a894;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.single-choose-item img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.single-choose-item {
+    text-align: center;
+    margin-top: 20px;
+}

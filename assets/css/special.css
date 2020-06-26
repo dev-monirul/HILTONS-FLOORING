@@ -1,0 +1,10 @@
+.special-item img {
+    width: 100%;
+    border-radius: 15px;
+}
+section.special-area {
+    padding: 20px 0 70px 0;
+}
+.special-item {
+    margin-top: 35px;
+}
